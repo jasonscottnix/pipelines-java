@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/jasonnix/ADO%20Testing/_apis/build/status%2Fjasonscottnix.pipelines-java?branchName=main)](https://dev.azure.com/jasonnix/ADO%20Testing/_build/latest?definitionId=3&branchName=main)
 
 # Contributing
 
